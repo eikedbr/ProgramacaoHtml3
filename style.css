@@ -19,3 +19,17 @@ main {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+section {
+    width: calc(33.33% - 20px);
+margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: 200px;
+}
